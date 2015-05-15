@@ -1,12 +1,3 @@
-defmodule Elixos do
-
-
-  defmodule Instruction do
-
-  end
-
-end
-
 defmodule Elixos.Code do
   defstruct set: []
 end
